@@ -1,5 +1,6 @@
 # Data-analysis-and-Statistical-modeling
- Investigated various scenarios involving uncertainties in two-dimensional data. Explore cases of general, heterogeneous, and arbitrarily covariant uncertainties, as well as situations where there are outliers in the data, unknown uncertainties, and intrinsic scatter in the linear relationship being analyzed.
+ Investigated various scenarios involving uncertainties in two-dimensional data. Explore cases of general, heterogeneous, and arbitrarily covariant uncertainties, as well as situations where there are outliers in the data, unknown uncertainties, and intrinsic scatter in the linear relationship being analyzed. 
+## I used the JULIA language coded in jupyter notebook.
 # Introduction
 The process of fitting a model to data, specifically exemplified by fitting a straight line to points in a two-dimensional plane, involves numerous considerations. Standard weighted least-squares fitting is suitable only when there is a dimension with negligible uncertainties and another dimension where uncertainties follow known Gaussian distributions. However, these conditions are rarely met in practice. This study explores scenarios with general, heterogeneous, and arbitrarily covariant uncertainties in two dimensions. 
 It also addresses challenges such as 
